@@ -9,6 +9,9 @@ TMHTN
 
 See http://nodejs.org/
 
+## Presentation
+
+See http://slides.com/glavinwiechert/tmhtjavascript/live
 
 ## Web Servers in Node.js
 
